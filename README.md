@@ -1,3 +1,1 @@
-# FitApp
-
 it's adaptive
